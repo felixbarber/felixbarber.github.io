@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+# About me
+Originally from New Zealand, I'm a physicist turned biologist living and working in New York City. 
 
-_yay_
 
 [back](./)
