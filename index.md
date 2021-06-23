@@ -1,4 +1,4 @@
-[About me](./about-me.html)
+[About me](./aboutme.html)
 
 # Education
 - 2020: Ph.D. in Molecular and Cellular Biology with a secondary field in computational science and engineering, Harvard University.
