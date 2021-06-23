@@ -1,3 +1,18 @@
 theme: jekyll-theme-minimal
 title: [Random walks of a physicist in biology]
-description: [The personal website and hot takes of Felix Barber.]
+description: [The personal website and hot takes of Felix Barber1.]
+avatar: "/profile_pic.JPG"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+
+social-network-links:
+  email: "felixbarber@nyu.edu"
+  github: felixbarber
+  twitter: FelixBarber9
+  linkedin: felix-barber
+  
+  # Select which social network share links to show in posts
+share-links-active:
+  twitter: true
+  linkedin: true
