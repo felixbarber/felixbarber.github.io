@@ -3,6 +3,7 @@ Originally from New Zealand, I'm a physicist turned biologist living and working
 
 # Education
 - 2020: Ph.D. in Molecular and Cellular Biology with a secondary field in computational science and engineering, Harvard University.
+- 2015: Physiology course graduate, Marine Biological Laboratory.
 - 2014: MASt in Theoretical Physics and Applied Mathematics, University of Cambridge.
 - 2013: BSc Hons (first class) in Physics and Mathematics, Victoria University of Wellington.
 
