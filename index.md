@@ -17,5 +17,6 @@ You can also find me at
 
 Before you go, you can enjoy this composite image from my PhD thesis defense. Many yeast cells were harmed in the making of this image, so no pressure.
 
+<!-- ![Budding yeast image processing](/slide1.png) -->
+![Budding yeast image processing](https://drive.google.com/file/d/12xwP1ImSMGeHkUuJrzNtwswtbHZASf1r/view?usp=sharing)
 
-![Budding yeast image processing](/slide1.png)
