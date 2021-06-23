@@ -8,7 +8,7 @@ layout: default
 - [Research](./research.html)
 
 # About me
-Originally from New Zealand, I'm a physicist turned biologist living and working in New York City. 
+Originally from New Zealand, I'm a physicist turned biologist living and working in New York City. I'm currently a postdoctoral research associate working in the Rojas Lab at New York University. My research focuses on understanding the growth of the Gram-positive bacterial cell wall.
 
 # Education
 - 2020: **Ph.D.** in Molecular and Cellular Biology with a secondary field in computational science and engineering, Harvard University.
