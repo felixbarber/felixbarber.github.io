@@ -21,7 +21,7 @@ I am currently constructing genetic tools to precisely tune teichoic acid synthe
 microfluidics-based assays to measure bacterial cell wall growth, peptidoglycan synthesis and cell wall stiffness to test my central hypothesis in the Gram-positive bacterium, 
 *Bacillus subtilis*.
 
-[Fig_1_final](/Fig_1_final.png)
+![Fig_1_final](/Fig_1_final.png)
 **Fig 1**: A) Illustration of the Gram-positive cell envelope and Rod complex. B) Illustration of how teichoic acids may impact cell wall growth. Black lines show established relationships, blue dotted lines show my proposed model, wherein WTAs coordinate PG insertion, cell wall stiffness and cell growth.
 
 [back](./)
