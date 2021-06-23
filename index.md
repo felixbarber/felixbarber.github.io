@@ -5,6 +5,7 @@ This is my personal website. Check out the links below to find your way around.
 - [About me](./about-me.html)
 - [Publications](./publications.html)
 - [Blog](./blog.html)
+- [Research](./research.html)
 
 You can also find me at
 
