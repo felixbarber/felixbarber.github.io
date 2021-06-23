@@ -13,6 +13,7 @@ You can also find me at
 - [LinkedIn](https://www.linkedin.com/in/felix-barber)
 - [Rojas Lab](https://www.rojaslab.com)
 
+[Click here]({{file name='CV_2021.pdf'}}) for a copy of my CV.
 
 Before you go, you can enjoy this composite image from my PhD thesis defense. Many yeast cells were harmed in the making of this image, so no pressure.
 
