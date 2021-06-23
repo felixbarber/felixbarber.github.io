@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: [Random walks of a physicist in biology]
 description: [The personal website and hot takes of Felix Barber.]
-
+logo: [/profile_pic.JPG]
 social-network-links:
   email: "felixbarber@nyu.edu"
   github: felixbarber
