@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+- [Home](./index.html)
 - [About me](./about-me.html)
 - [Publications](./publications.html)
 - [Blog](./blog.html)
