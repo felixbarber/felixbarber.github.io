@@ -14,7 +14,7 @@ You can also find me at
 - [Rojas Lab](https://www.rojaslab.com)
 
 
-Before you go, you can enjoy this composite image from my PhD thesis defense. Many yeast cells were harmed in the making of this image.
+Before you go, you can enjoy this composite image from my PhD thesis defense. Many yeast cells were harmed in the making of this image, so no pressure.
 
 
 ![Budding yeast image processing](/slide1.png)
