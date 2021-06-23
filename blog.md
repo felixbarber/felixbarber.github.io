@@ -2,6 +2,12 @@
 layout: default
 ---
 
+- [About me](./about-me.html)
+- [Publications](./publications.html)
+- [Blog](./blog.html)
+- [Research](./research.html)
+
+
 # Blog
 
 Come back here when I write something new! I promise it won't be *too* long... In the meantime, here are a few links to a few general interest articles from my days back at the Harvard based, student-run blog [Science In The News](https://sitn.hms.harvard.edu/):
