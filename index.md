@@ -8,4 +8,4 @@ This is my personal website. Check out the links below to find your way around.
 You can also find me at
 
 - [Twitter](https://twitter.com/FelixBarber9)
-- [LinkedIn](www.linkedin.com/in/felix-barber)
+- [LinkedIn](https://www.linkedin.com/in/felix-barber)
