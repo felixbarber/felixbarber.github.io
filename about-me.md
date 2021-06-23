@@ -14,8 +14,8 @@ Originally from New Zealand, I'm a physicist turned biologist living and working
 # Honors and awards
 - 2019: **Harvard Quantitative Biology Student Award**.
 - 2018: **Harvard Graduate Merit Fellowship**.
-- 2016: Derek Bok Center Certificate of Distinction in Teaching. Awarded for SB200, a graduate level systems biology course.
-- 2015: Derek Bok Center Certificate of Distinction in Teaching. Awarded for LS1A, an undergraduate into to molecular biology course.
+- 2016: **Derek Bok Center Certificate of Distinction in Teaching**. Awarded for SB200, a graduate level systems biology course.
+- 2015: **Derek Bok Center Certificate of Distinction in Teaching**. Awarded for LS1A, an undergraduate into to molecular biology course.
 - 2014-2016: **William Georgetti Scholarship**.
 - 2013: **Gates Cambridge Scholarship**.
 - 2013: **Victoria University Medal** for top graduate in the faculty of science.
