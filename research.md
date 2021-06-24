@@ -26,6 +26,9 @@ microfluidics-based assays to measure bacterial cell wall growth, peptidoglycan 
 ![Fig_1_final](/Fig_1_final.png)
 **Fig 1**: A) Illustration of the Gram-positive cell envelope and Rod complex. B) Illustration of how teichoic acids may impact cell wall growth. Black lines show established relationships, blue dotted lines show my proposed model, wherein WTAs coordinate PG insertion, cell wall stiffness and cell growth.
 
+![210402_TIRF_FB2_tun_LB_S002_50ms_gif_greyscale](https://user-images.githubusercontent.com/10761538/123298245-4cbdb600-d4e6-11eb-9cea-27bec6a7ebcb.gif)
+**Fluorescently labeled Mbl components of the bacterial Rod complex process circumferentially around the cell during growth.**
+
 ## Budding yeast cell size control
 My doctoral work furthered our understanding of the mechanism and physiological consequences of cell size control in the microbe *Saccharomyces cerevisiae* (budding yeast), culminating in three first author publications. Cells from all domains of life regulate their size by coupling their growth and division, however, our understanding of the mechanistic origin of cell size control remains very limited. 
 
