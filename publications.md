@@ -16,4 +16,7 @@ layout: default
 
 4. Tallon, J. L., **Barber, F.**, Storey, J. G., & Loram, J. W. (2013). Coexistence of the superconducting energy gap and pseudogap above and below the transition temperature of cuprate superconductors. Physical Review B, 87(14), 140508. <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.87.140508>
 
+![tar016](./tar016.jpg)
+**Eutardigrade imaged with scanning electron microscopy.** I prepared this sample and acquired this image as part of the MBL physiology course.
+
 [back](./)
