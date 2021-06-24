@@ -41,7 +41,7 @@ My graduate research combined experimental and theoretical techniques to yield n
 **Fig 2**: Illustration of budded vs. non-budded cell growth morphologies.
 
 ## The BEC-BCS Crossover
-This essay on the crossover between the Bose-Einstein Condensate and Bardeen-Cooper-Schrieffer states of matter was a significant part of my work during Part III of the mathematical tripos at Cambridge. If you're interested to see an unpublished literature review from several years ago, look no further! [Part III Essay](/Essay_main.pdf).
+This essay on the crossover between the Bose-Einstein Condensate and Bardeen-Cooper-Schrieffer states of matter was part of my assessment for Part III of the mathematical tripos at Cambridge. If you're interested to see an unpublished literature review from several years ago, look no further! [Part III Essay](/Essay_main.pdf).
 
 
 [back](./)
