@@ -15,5 +15,8 @@ Come back here when I write something new! I promise it won't be *too* long... I
 - [Is it Smoky in Here? The importance of the Clean Air Act in the 21st century](https://sitn.hms.harvard.edu/flash/2019/smokey-importance-clean-air-act-21st-century/)
 - [The Future of Energy Storage: A lost opportunity for the U.S.?](https://sitn.hms.harvard.edu/flash/2017/future-energy-storage-lost-opportunity-u-s/)
 
+![HADA_staining_color_greyscale](https://user-images.githubusercontent.com/10761538/123298735-cc4b8500-d4e6-11eb-91ef-53e0e6c2a6a4.png)
+![HADA_staining_phase](https://user-images.githubusercontent.com/10761538/123298736-cce41b80-d4e6-11eb-88a6-560deb4ccd92.png)
+**Top:** Fluorescent D-amino acids bind to the bacterial cell wall during growth. **Bottom:** Phase microscopy imaging of the same scene.
 
 [back](./)
