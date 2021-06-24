@@ -25,5 +25,7 @@ Originally from New Zealand, I'm a physicist turned biologist living and working
 - 2013: **Gates Cambridge Scholarship**.
 - 2013: **Victoria University Medal** for top graduate in the faculty of science.
 
+![image](./image.jpeg)
+**Tongue dorsum sample stained with 16S rRNA FISH probes.** I obtained this image in collaboration with the Borisy Lab during the MBL physiology course.
 
 [back](./)
