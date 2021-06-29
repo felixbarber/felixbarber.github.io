@@ -1,4 +1,3 @@
-https://felixbarber.github.io/
 https://felixbarber.github.io/about-me.html
 https://felixbarber.github.io/publications.html
 https://felixbarber.github.io/blog.html
