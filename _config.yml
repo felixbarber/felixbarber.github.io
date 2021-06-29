@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-{% raw %}{% seo %}{% endraw %}
 title: [Random walks of a physicist in biology]
 description: [The personal website and hot takes of Felix Barber.]
 logo: /profile_pic.JPG
