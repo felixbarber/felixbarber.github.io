@@ -9,7 +9,7 @@ This is my personal website. Check out the links below to find your way around.
 
 ## Updates
 
-Check out my latest blog post here: [RNA World](./rna_world.html)
+Check out my latest post here: [RNA World](./rna_world.html)
 
 ## Contact
 
