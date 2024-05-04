@@ -8,9 +8,9 @@ layout: default
 - [Research](./research.html)
 
 
-## Blog
+# Blog
 
-# May 4, 2024
+## May 4, 2024
 
 [Here's a piece](./rna_world.html) I wrote while participating in NYU's Advanced Science Communication workshop, led by the great Brooke Borel. Ever wonder what "life" was like in an RNA world? I did. 
 
