@@ -12,7 +12,7 @@ layout: default
 
 # May 4, 2024
 
-Here's a piece I wrote while participating in NYU's Advanced Science Communication workshop, led by the great Brooke Borel. Ever wonder what "life" was like in an RNA world? I did. 
+[Here's a piece](./rna_world.html) I wrote while participating in NYU's Advanced Science Communication workshop, led by the great Brooke Borel. Ever wonder what "life" was like in an RNA world? I did. 
 
   [RNA World](./rna_world.html)
 
