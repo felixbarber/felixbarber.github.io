@@ -7,9 +7,13 @@ This is my personal website. Check out the links below to find your way around.
 - [Blog](./blog.html)
 - [Research](./research.html)
 
+## Updates
+
 Check out my latest blog post here: [RNA World](./rna_world.html)
 
-You can also find me at
+## Contact
+
+You can find me at
 
 - [Twitter](https://twitter.com/FelixBarber9)
 - [LinkedIn](https://www.linkedin.com/in/felix-barber)
