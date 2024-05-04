@@ -10,11 +10,11 @@ layout: default
 
 ## Blog
 
-#May 4, 2024
+# May 4, 2024
 
 Here's a piece I wrote while participating in NYU's Advanced Science Communication workshop, led by the great Brooke Borel. Ever wonder what "life" was like in an RNA world? I did. 
 
-[RNA World](./rna_world.html)
+  [RNA World](./rna_world.html)
 
 Also, here are a few general interest articles from my days back at the Harvard based, student-run blog [Science In The News](https://sitn.hms.harvard.edu/):
 
