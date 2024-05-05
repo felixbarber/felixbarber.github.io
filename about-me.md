@@ -4,7 +4,7 @@ layout: default
 - [Home](.)
 - [About me](./about-me.html)
 - [Publications](./publications.html)
-- [Blog](./blog.html)
+- [Writing](./blog.html)
 - [Research](./research.html)
 
 # About me
