@@ -8,7 +8,9 @@ layout: default
 - [Research](./research.html)
 
 
-# Blog
+# Writing
+
+Who said scientists can't write?
 
 ## May 4, 2024
 
