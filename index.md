@@ -1,6 +1,4 @@
-# Welcome!
-
-This is my personal website. Check out the links below to find your way around.
+# The page with links
 
 - [About me](./about-me.html)
 - [Publications](./publications.html)
@@ -13,7 +11,7 @@ Check out my latest post here: [RNA World](./rna_world.html)
 
 ## Contact
 
-You can find me at
+Find me at
 
 - [Twitter](https://twitter.com/FelixBarber9)
 - [LinkedIn](https://www.linkedin.com/in/felix-barber)
@@ -22,9 +20,11 @@ You can find me at
 - [Google Scholar](https://scholar.google.com/citations?user=eXbwJsQAAAAJ&hl=en&authuser=2)
 - [ResearchGate](https://www.researchgate.net/profile/Felix-Barber)
 
+Or, email me at felixbarber@nyu.edu
+
 [Click here](./CV_2021.pdf) for a copy of my CV.
 
-Before you go, you can enjoy this composite image from my PhD thesis defense. Many yeast cells were harmed in the making of this image, so no pressure.
+Many organisms were harmed to generate this image from my Ph.D. defense, none more so than myself.
 
 ![Budding yeast image processing](/slide1.png)
 
