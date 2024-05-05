@@ -10,6 +10,6 @@ social-network-links:
   linkedin: felix-barber
   
   # Select which social network share links to show in posts
-share-links-active:
+share-links-active: true
   twitter: true
   linkedin: true
