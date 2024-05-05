@@ -1,4 +1,4 @@
-# The page with links
+# The page with the links
 
 - [About me](./about-me.html)
 - [Publications](./publications.html)
