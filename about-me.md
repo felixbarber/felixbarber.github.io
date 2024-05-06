@@ -25,7 +25,7 @@ Originally from New Zealand, I'm a physicist turned biologist living and working
 - 2013: **Gates Cambridge Scholarship**.
 - 2013: **Victoria University Medal** for top graduate in the faculty of science.
 
-![image](./image.jpeg)
-**Tongue dorsum scraping stained by 16S rRNA fluorescence in situ hybridization.** I obtained this image in collaboration with the Borisy Lab during the MBL physiology course.
+![HADA_staining_color_greyscale](https://user-images.githubusercontent.com/10761538/123298735-cc4b8500-d4e6-11eb-91ef-53e0e6c2a6a4.png)
+**Fluorescent D-amino acids bind to the bacterial cell wall during growth.**
 
 [back](./)
