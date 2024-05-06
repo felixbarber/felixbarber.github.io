@@ -12,7 +12,7 @@ layout: default
 
 ## May 4, 2024
 
-[RNA World](./rna_world.html): a piece I wrote while participating in NYU's Advanced Science Communication workshop, led by the great Brooke Borel. Ever wonder what "life" was like in an RNA world? I did. 
+[RNA World](./rna_world.html): I wrote this piece as for NYU's Advanced Science Communication workshop, led by the great Brooke Borel. Ever wonder what "life" was like in an RNA world? I did. 
 
   
 
