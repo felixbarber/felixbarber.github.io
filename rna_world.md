@@ -6,6 +6,7 @@ layout: default
 - [Publications](./publications.html)
 - [Writing](./blog.html)
 - [Research](./research.html)
+- [Posters](./posters.html)
 
 
 # RNA World
