@@ -3,3 +3,4 @@ https://felixbarber.github.io/publications.html
 https://felixbarber.github.io/blog.html
 https://felixbarber.github.io/research.html
 https://felixbarber.github.io/rna_world.html
+https://felixbarber.github.io/posters.html
