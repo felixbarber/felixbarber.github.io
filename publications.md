@@ -7,6 +7,7 @@ layout: default
 - [Publications](./publications.html)
 - [Writing](./blog.html)
 - [Research](./research.html)
+- [Posters](./posters.html)
 
 1. **Barber, F.**, Min, J., Murray, A. W., Amir, A. (2021). Modeling the impact of single-cell stochasticity and size control on the population growth rate in asymmetrically dividing cells. PLOS Computational Biology 17(6): e1009080. <https://doi.org/10.1371/journal.pcbi.1009080>.
 
