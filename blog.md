@@ -11,14 +11,6 @@ layout: default
 
 # Who said scientists can't write?
 
-## May 4, 2024
-
-[RNA World](./rna_world.html): I wrote this piece as for NYU's Advanced Science Communication workshop, led by the great Brooke Borel. Ever wonder what "life" was like in an RNA world? I did. 
-
-  
-
-## Archive
-
 A few general interest articles from my days back at the Harvard based, student-run blog [Science In The News](https://sitn.hms.harvard.edu/):
 
 - [Is it Smoky in Here? The importance of the Clean Air Act in the 21st century](https://sitn.hms.harvard.edu/flash/2019/smokey-importance-clean-air-act-21st-century/)
