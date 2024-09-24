@@ -8,7 +8,6 @@
 
 ## Updates
 
-Check out my latest piece of short-form writing here: [RNA World](./rna_world.html)
 
 ## Contact
 
