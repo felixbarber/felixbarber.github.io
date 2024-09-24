@@ -8,6 +8,7 @@
 
 ## Updates
 
+We uploaded our latest paper to bioRxiv! Check it out here: [Wall teichoic acids regulate peptidoglycan synthesis by paving cell wall microstructure](https://www.biorxiv.org/content/10.1101/2024.09.02.610702v1)
 
 ## Contact
 
