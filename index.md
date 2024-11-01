@@ -23,7 +23,7 @@ Find me at
 
 Or, email me at felixbarber@nyu.edu
 
-[Click here](./CV_2021.pdf) for a copy of my CV.
+[Click here](./CV_2024.pdf) for a copy of my CV.
 
 ![Budding yeast image processing](/slide1.png)
 Many organisms were harmed to generate this image from my Ph.D. defense, none more so than myself.
