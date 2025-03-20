@@ -8,7 +8,9 @@
 
 ## Updates
 
-We uploaded our latest paper to bioRxiv! Check it out here: [Wall teichoic acids regulate peptidoglycan synthesis by paving cell wall microstructure](https://www.biorxiv.org/content/10.1101/2024.09.02.610702v1)
+3/20/25: It's official: the Barber Lab is starting this fall, at [Ohio State University Microbiology](https://microbiology.osu.edu/)!
+
+9/3/24: We uploaded our latest paper to bioRxiv! Check it out here: [Wall teichoic acids regulate peptidoglycan synthesis by paving cell wall microstructure](https://www.biorxiv.org/content/10.1101/2024.09.02.610702v1)
 
 ## Contact
 
