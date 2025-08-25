@@ -8,6 +8,8 @@
 
 ## Updates
 
+8/25/25: The Barber lab is now open, and welcoming applicants at all levels!
+
 3/20/25: It's official: the Barber Lab is starting this fall, at [Ohio State University Microbiology](https://microbiology.osu.edu/)!
 
 9/3/24: We uploaded our latest paper to bioRxiv! Check it out here: [Wall teichoic acids regulate peptidoglycan synthesis by paving cell wall microstructure](https://www.biorxiv.org/content/10.1101/2024.09.02.610702v1)
@@ -23,9 +25,9 @@ Find me at
 - [Google Scholar](https://scholar.google.com/citations?user=eXbwJsQAAAAJ&hl=en&authuser=2)
 - [ResearchGate](https://www.researchgate.net/profile/Felix-Barber)
 
-Or, email me at felixbarber@nyu.edu
+Or, email me at barber.527@osu.edu
 
-[Click here](./CV_2024.pdf) for a copy of my CV.
+[Click here](./CV_2025.pdf) for a copy of my CV.
 
 ![Budding yeast image processing](/slide1.png)
 Many organisms were harmed to generate this image from my Ph.D. defense, none more so than myself.
