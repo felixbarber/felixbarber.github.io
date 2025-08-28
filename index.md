@@ -8,7 +8,7 @@
 
 ## Updates
 
-8/25/25: The [Barber lab](https://microbiology.osu.edu/people/barber.527)! is now open, and we welcome applicants at all levels! Please send all communication to barber.527@osu.edu. 
+8/25/25: The [Barber lab](https://microbiology.osu.edu/people/barber.527) is now open, and we welcome applicants at all levels! Please send all communication to barber.527@osu.edu. 
 
 3/20/25: It's official: the Barber Lab is starting this fall, at [Ohio State University Microbiology](https://microbiology.osu.edu/)!
 
