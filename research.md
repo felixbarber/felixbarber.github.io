@@ -1,13 +1,7 @@
 ---
 layout: default
+title: Research
 ---
-
-- [Home](.)
-- [About me](./about-me.html)
-- [Publications](./publications.html)
-- [Writing](./blog.html)
-- [Research](./research.html)
-- [Posters](./posters.html)
 
 # Research
 
@@ -24,12 +18,15 @@ I am currently constructing genetic tools to precisely tune teichoic acid synthe
 microfluidics-based assays to measure bacterial cell wall growth, peptidoglycan synthesis and cell wall stiffness to test my central hypothesis in the Gram-positive bacterium, 
 *Bacillus subtilis*.
 
-![Fig_1_final](/Fig_1_final.png)
-**Fig 1**: A) Illustration of the Gram-positive cell envelope and Rod complex. B) Illustration of how teichoic acids may impact cell wall growth. Black lines show established relationships, blue dotted lines show my proposed model, wherein WTAs coordinate PG insertion, cell wall stiffness and cell growth.
+<figure>
+  <img src="/assets/img/wta_model_fig1.jpg" alt="Illustration of the Gram-positive cell envelope and Rod complex, and a proposed model of teichoic acid function" width="1400" height="619" loading="lazy">
+  <figcaption><strong>Fig 1</strong>: A) Illustration of the Gram-positive cell envelope and Rod complex. B) Illustration of how teichoic acids may impact cell wall growth. Black lines show established relationships, blue dotted lines show my proposed model, wherein WTAs coordinate PG insertion, cell wall stiffness and cell growth.</figcaption>
+</figure>
 
-![210402_TIRF_FB2_tun_LB_S002_50ms_gif_greyscale](https://user-images.githubusercontent.com/10761538/123298245-4cbdb600-d4e6-11eb-9cea-27bec6a7ebcb.gif)
-
-**Fluorescently labeled Mbl components of the bacterial Rod complex process circumferentially around the cell during growth.**
+<figure>
+  <img src="/assets/img/mbl_rod_complex.gif" alt="Fluorescently labeled Mbl components of the bacterial Rod complex processing circumferentially around the cell during growth" width="226" height="226" loading="lazy">
+  <figcaption>Fluorescently labeled Mbl components of the bacterial Rod complex process circumferentially around the cell during growth.</figcaption>
+</figure>
 
 ## Budding yeast cell size control
 My doctoral work furthered our understanding of the mechanism and physiological consequences of cell size control in the microbe *Saccharomyces cerevisiae* (budding yeast), culminating in three first author publications. Cells from all domains of life regulate their size by coupling their growth and division, however, our understanding of the mechanistic origin of cell size control remains very limited. 
@@ -42,11 +39,10 @@ Thirdly, I modeled the population growth rate in asymmetrically dividing cells u
 
 My graduate research combined experimental and theoretical techniques to yield novel insights on outstanding questions in cell size control. My interdisciplinary research motivated a novel, testable hypothesis for the evolutionary origin of asymmetric division in budding yeast, refuted a widely supported model for the fundamental origin of size control in budding yeast, and deepened our understanding of the impact of cell shape and size control on the population growth rate. In each case, my work furthered our understanding of cell physiology beyond the narrow paradigm of symmetrically dividing, non-budding cells.
 
-![budded_nonbudded](/budded_nonbudded.png)
-**Fig 2**: Illustration of budded vs. non-budded cell growth morphologies.
+<figure>
+  <img src="/assets/img/budded_nonbudded.jpg" alt="Illustration of budded vs. non-budded cell growth morphologies" width="1400" height="643" loading="lazy">
+  <figcaption><strong>Fig 2</strong>: Illustration of budded vs. non-budded cell growth morphologies.</figcaption>
+</figure>
 
 ## The BEC-BCS Crossover
 This essay on the crossover between the Bose-Einstein Condensate and Bardeen-Cooper-Schrieffer states of matter was part of my assessment for Part III of the mathematical tripos at Cambridge. If you're interested to see an unpublished literature review from several years ago, look no further! [Part III Essay](/Essay_main.pdf).
-
-
-[back](./)
