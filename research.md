@@ -6,26 +6,14 @@ title: Research
 # Research
 
 ## Bacterial Growth
-Widespread antibiotic resistance is increasingly undermining the efficacy of our most successful antibiotics. 
-Creative and interdisciplinary approaches are required to address this existential threat. 
-The Gram-positive bacterial cell wall is a rigid structure made of peptidoglycan and teichoic acids that sustains the immense hydrostatic pressure within the cell, 
-thereby preventing cell lysis. Our best antibiotics target the synthesis of peptidoglycan.  
-In an exciting development, recent research demonstrated that additionally inhibiting teichoic acid synthesis can reduce resistance to these frontline drugs. 
-Despite this, our understanding of how teichoic acids influence bacterial cell growth is very poor. My goal is to determine the mechanisms by which teichoic acids 
-impact the cellular growth rate.  Based on my novel preliminary data, my central hypothesis is that teichoic acids serve a critical and overlooked role in governing 
-cell growth by simultaneously controlling peptidoglycan synthesis and cell wall stiffness, potentially offering a novel avenue to counteract antibiotic resistance.  
-I am currently constructing genetic tools to precisely tune teichoic acid synthesis, abundance and biochemistry. I will then combine these tools with novel 
-microfluidics-based assays to measure bacterial cell wall growth, peptidoglycan synthesis and cell wall stiffness to test my central hypothesis in the Gram-positive bacterium, 
-*Bacillus subtilis*.
+
+The bacterial cell wall is an essential polymeric exoskeleton that both prevents bacterial lysis and is targeted by our best frontline antibiotics. Our recent work revealed the fundamental role of wall teichoic acids, an understudied cell wall constituent of Gram-positive bacteria, in regulating both the synthesis and degradation of the primary load-bearing cell wall component: peptidoglycan. We are now leveraging these discoveries to explore the mechanistic basis of cell wall homeostasis, both with and without wall teichoic acids.
+
+Read the paper in [Nature Microbiology](https://doi.org/10.1038/s41564-026-02368-6), or check out this [research briefing](https://www.nature.com/articles/s41564-026-02400-9.epdf?sharing_token=Gh5IZrkr9eS8mHk4GOCwe9RgN0jAjWel9jnR3ZoTv0NDHFEZ6GL6OGX7O6Ais_sO-hppPtkvexgZYojSfanhu2ZqkCbXa9Kg62EB1p0ZLadyalQ2rJdmyZmWCEjavXOw0HYOmT9xQFYYjP0IXpzwfgGbm8-8uK2L6u8pbnlA8Uc%3D) for a general-audience explainer.
 
 <figure>
-  <img src="/assets/img/wta_model_fig1.jpg" alt="Illustration of the Gram-positive cell envelope and Rod complex, and a proposed model of teichoic acid function" width="1400" height="619" loading="lazy">
-  <figcaption><strong>Fig 1</strong>: A) Illustration of the Gram-positive cell envelope and Rod complex. B) Illustration of how teichoic acids may impact cell wall growth. Black lines show established relationships, blue dotted lines show my proposed model, wherein WTAs coordinate PG insertion, cell wall stiffness and cell growth.</figcaption>
-</figure>
-
-<figure>
-  <img src="/assets/img/mbl_rod_complex.gif" alt="Fluorescently labeled Mbl components of the bacterial Rod complex processing circumferentially around the cell during growth" width="226" height="226" loading="lazy">
-  <figcaption>Fluorescently labeled Mbl components of the bacterial Rod complex process circumferentially around the cell during growth.</figcaption>
+  <img src="/assets/img/wta_paper_fig4.png" alt="Model: wall teichoic acids maintain rod shape by occluding nanoscale pores" width="1400" height="831" loading="lazy">
+  <figcaption><strong>Fig. 4</strong> from Barber et al., <em>Nature Microbiology</em> (2026), reused under CC BY 4.0. Wall teichoic acids exclude PBP1 from the cell wall; when they're depleted, exposed nanoscale pores redirect peptidoglycan synthesis away from Rod complexes, disrupting rod shape.</figcaption>
 </figure>
 
 ## Budding yeast cell size control

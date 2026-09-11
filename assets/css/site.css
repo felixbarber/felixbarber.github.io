@@ -57,12 +57,13 @@ p.lede { font-size: 15px; }
 /* ---------- key/value lists: updates, contact, education, honors ---------- */
 
 ul.kv, ol.kv { margin: 0 0 20px; padding: 0; }
-ul.kv > li, ol.kv > li { padding: 0 0 12px; list-style: none; }
+ul.kv > li, ol.kv > li { position: relative; padding: 0 0 12px 10.5em; list-style: none; }
 ul.kv > li > strong:first-child, ol.kv > li > strong:first-child {
-  display: inline-block;
+  position: absolute;
+  left: 0;
+  top: 0;
   width: 10em;
   white-space: nowrap;
-  margin-right: 0.4em;
   font-weight: 700;
   color: #494949;
 }
@@ -105,5 +106,6 @@ ol.pubs a:hover { color: #fff; background: #267CB9; font-weight: normal; }
 
 @media print, screen and (max-width: 720px) {
   .site-nav { flex-direction: row; flex-wrap: wrap; gap: 4px 14px; margin-bottom: 20px; }
-  ul.kv > li > strong:first-child, ol.kv > li > strong:first-child { display: block; width: auto; margin-bottom: 2px; }
+  ul.kv > li, ol.kv > li { padding-left: 0; }
+  ul.kv > li > strong:first-child, ol.kv > li > strong:first-child { display: block; position: static; width: auto; margin-bottom: 2px; }
 }
