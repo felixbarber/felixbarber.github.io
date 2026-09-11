@@ -16,6 +16,11 @@ Read the paper in [Nature Microbiology](https://doi.org/10.1038/s41564-026-02368
   <figcaption><strong>Fig. 4</strong> from Barber et al., <em>Nature Microbiology</em> (2026), reused under CC BY 4.0. Wall teichoic acids exclude PBP1 from the cell wall; when they're depleted, exposed nanoscale pores redirect peptidoglycan synthesis away from Rod complexes, disrupting rod shape.</figcaption>
 </figure>
 
+<figure class="small">
+  <img src="/assets/img/tem_cover_art.jpg" alt="False-colored transmission electron micrograph of Bacillus subtilis cells fully depleted for wall teichoic acids" width="1000" height="1325" loading="lazy">
+  <figcaption>False-colored image of <em>B. subtilis</em> cells fully depleted for wall teichoic acids, imaged by transmission electron microscopy.</figcaption>
+</figure>
+
 ## Budding yeast cell size control
 My doctoral work furthered our understanding of the mechanism and physiological consequences of cell size control in the microbe *Saccharomyces cerevisiae* (budding yeast), culminating in three first author publications. Cells from all domains of life regulate their size by coupling their growth and division, however, our understanding of the mechanistic origin of cell size control remains very limited. 
 
