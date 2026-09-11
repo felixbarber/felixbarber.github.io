@@ -2,8 +2,6 @@
 layout: default
 ---
 
-> **This website is no longer actively updated.** For current research, publications, and contact information, please visit the [Barber Lab](https://barbermicro.com) website.
-
 I'm a physicist turned biologist. I lead the [Barber Lab](https://barbermicro.com) in the Department of Microbiology at The Ohio State University, where my research focuses on understanding the growth of the Gram-positive bacterial cell wall.
 {: .lede}
 
@@ -25,7 +23,7 @@ Email, GitHub and LinkedIn are in the footer below. Find me elsewhere:
 - **cv** [download PDF](/CV_2025.pdf)
 {: .kv}
 
-<figure class="narrow">
+<figure>
   <img src="/assets/img/phd_defense_slide.jpg" alt="Budding yeast image processing" width="1600" height="960" loading="lazy">
   <figcaption>Many organisms were harmed to generate this image from my Ph.D. defense, none more so than myself.</figcaption>
 </figure>
