@@ -10,7 +10,7 @@
 .skip-link { position: absolute; left: -9999px; }
 .skip-link:focus { left: 16px; top: 12px; z-index: 10; padding: 6px 10px; background: #267CB9; color: #fff; text-decoration: none; }
 
-header img { max-width: 120px; height: auto; border-radius: 6px; margin: 4px 0 12px; }
+header img { max-width: 161px; height: auto; border-radius: 6px; margin: 4px 0 12px; }
 
 /* ---------- nav: a plain vertical menu under the description ---------- */
 
