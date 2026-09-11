@@ -1,15 +1,27 @@
 theme: jekyll-theme-minimal
-title: [Random walks of a physicist in biology]
-description: [The personal website and hot takes of Felix Barber.]
-logo: /profile_pic.JPG
+title: Felix Barber
+description: Random walks of a physicist in biology.
+url: https://felixbarber.com
+lang: en-US
+logo: /assets/img/profile_pic.jpg
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Link previews (X, LinkedIn, Slack, iMessage)
+twitter:
+  username: FelixBarber9
+  card: summary_large_image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/profile_pic.jpg
+
+# Shown in the footer of every page
 social-network-links:
-  email: "felixbarber@nyu.edu"
+  email: "barber.527@osu.edu"
   github: felixbarber
   twitter: FelixBarber9
   linkedin: felix-barber
-  
-  # Select which social network share links to show in posts
-share-links-active: 
-  twitter: true
-  linkedin: true

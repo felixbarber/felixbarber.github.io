@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Security: the site only loads files from itself. Browsers will refuse any script,
+         frame or media from another domain, including anything pasted into a page by mistake.
+         Adding an embed (YouTube, analytics, a form)? Add its domain to the matching directive. -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self'; font-src 'self'; media-src 'self'; connect-src 'none'; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'none'; upgrade-insecure-requests">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/site.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="icon" href="{{ '/assets/favicon-32.png' | relative_url }}" sizes="32x32" type="image/png">
+    <link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <a class="skip-link" href="#main_content">Skip to content</a>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a></h1>
+
+        {% if site.logo %}
+          <img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" />
+        {% endif %}
+
+        <p>{{ site.description | escape }}</p>
+
+        <nav class="site-nav" aria-label="Main">
+          {%- for item in site.data.navigation %}
+          <a href="{{ item.url | relative_url | escape }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title | escape }}</a>
+          {%- endfor %}
+        </nav>
+      </header>
+      <section id="main_content">
+
+      {{ content }}
+
+      </section>
+      <footer>
+        {%- assign links = site.social-network-links %}
+        <p class="footer-links">
+          {%- if links.email %}<a href="mailto:{{ links.email | escape }}">email</a>{% endif %}
+          {%- if links.github %}<a href="https://github.com/{{ links.github | escape }}">github</a>{% endif %}
+          {%- if links.twitter %}<a href="https://x.com/{{ links.twitter | escape }}">x</a>{% endif %}
+          {%- if links.linkedin %}<a href="https://www.linkedin.com/in/{{ links.linkedin | escape }}">linkedin</a>{% endif %}
+        </p>
+        <p><small>updated {{ site.time | date: "%Y-%m-%d" }} &middot; hosted on GitHub Pages</small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

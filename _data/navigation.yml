@@ -1,0 +1,13 @@
+# Site menu, shown on every page (edit here, not in each page).
+- title: home
+  url: /
+- title: about
+  url: /about-me.html
+- title: research
+  url: /research.html
+- title: publications
+  url: /publications.html
+- title: writing
+  url: /blog.html
+- title: posters
+  url: /posters.html
