@@ -1,8 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="12" fill="#151515"/>
-  <rect x="9" y="22" width="46" height="20" rx="10" fill="#b5e853" stroke="#8ab53a" stroke-width="1.2"/>
-  <line x1="16" y1="27" x2="40" y2="27" stroke="#ffffff" stroke-opacity="0.24" stroke-width="2" stroke-linecap="round"/>
-  <circle cx="24" cy="30" r="2.4" fill="#151515"/>
-  <circle cx="35" cy="30" r="2.4" fill="#151515"/>
-  <path d="M 21 34 Q 29.5 41 38 34" fill="none" stroke="#151515" stroke-width="1.6" stroke-linecap="round"/>
+  <rect width="64" height="64" rx="12" fill="#ffffff"/>
+  <!-- North Island -->
+  <path d="M 44 8
+           C 50 8 55 12 55 18
+           C 55 23 51 26 46 27
+           C 42 28 40 26 38 28
+           C 35 31 31 30 30 26
+           C 29 22 33 20 34 17
+           C 35 14 33 12 36 10
+           C 38 8.5 41 8 44 8 Z"
+        fill="#43a047"/>
+  <!-- South Island -->
+  <path d="M 30 30
+           C 34 31 37 34 36 38
+           C 35 42 30 44 28 48
+           C 26 52 24 57 19 58
+           C 16 58.5 14 56 15 53
+           C 16 50 19 49 20 46
+           C 21 43 18 42 19 38
+           C 20 34 22 32 25 30
+           C 27 28.5 28 29.5 30 30 Z"
+        fill="#43a047"/>
+  <!-- Stewart Island -->
+  <circle cx="14" cy="60" r="1.6" fill="#43a047"/>
 </svg>
