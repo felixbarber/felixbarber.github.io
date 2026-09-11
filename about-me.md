@@ -5,7 +5,7 @@ title: About me
 
 # About me
 
-Originally from New Zealand, I'm a physicist turned biologist. I now lead the [Barber Lab](https://barbermicro.com) in the Department of Microbiology at The Ohio State University, where my research focuses on understanding the growth of the Gram-positive bacterial cell wall. Previously, I was a postdoctoral research associate in the Rojas Lab at New York University.
+Originally from New Zealand, I'm a physicist turned biologist. I now lead the [Barber Lab](https://barbermicro.com) in the Department of Microbiology at The Ohio State University, where my research focuses on understanding the growth of the Gram-positive bacterial cell wall. Previously, I was a postdoctoral research associate in the [Rojas Lab](https://rojaslab.com) at New York University (2020–2025).
 
 ## Education
 
