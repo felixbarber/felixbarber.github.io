@@ -25,5 +25,5 @@ Email, GitHub and LinkedIn are in the footer below. Find me elsewhere:
 
 <figure>
   <img src="/assets/img/phd_defense_slide.jpg" alt="Budding yeast image processing" width="1600" height="960" loading="lazy">
-  <figcaption>Many organisms were harmed to generate this image from my Ph.D. defense, none more so than myself.</figcaption>
+  <figcaption>Many organisms were harmed to generate this figure from my Ph.D. defense, none more so than myself.</figcaption>
 </figure>

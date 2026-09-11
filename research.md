@@ -18,7 +18,7 @@ Read the paper in [Nature Microbiology](https://doi.org/10.1038/s41564-026-02368
 
 <figure class="small">
   <img src="/assets/img/tem_cover_art.jpg" alt="False-colored transmission electron micrograph of Bacillus subtilis cells fully depleted for wall teichoic acids" width="1000" height="1325" loading="lazy">
-  <figcaption>False-colored image of <em>B. subtilis</em> cells fully depleted for wall teichoic acids, imaged by transmission electron microscopy.</figcaption>
+  <figcaption>False-colored <em>B. subtilis</em> cells fully depleted for wall teichoic acids, captured by transmission electron microscopy.</figcaption>
 </figure>
 
 ## Budding yeast cell size control

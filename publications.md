@@ -15,5 +15,5 @@ title: Publications
 
 <figure class="small">
   <img src="/assets/img/tardigrade_sem.jpg" alt="Eutardigrade imaged with scanning electron microscopy" width="1400" height="1050" loading="lazy">
-  <figcaption>Eutardigrade imaged with scanning electron microscopy. I prepared this sample and acquired this image as part of the MBL physiology course.</figcaption>
+  <figcaption>Eutardigrade captured with scanning electron microscopy. I prepared this sample and acquired the micrograph as part of the MBL physiology course.</figcaption>
 </figure>
